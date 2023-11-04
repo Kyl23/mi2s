@@ -1,0 +1,16 @@
+{
+  "short_name": "Mi2S System",
+  "name": "Mi2S Speech Recognition System",
+  "description": "This is an app that malay speech recognition",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "424x208",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

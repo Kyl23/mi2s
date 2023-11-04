@@ -48,6 +48,6 @@ app.post("/api/regconization", upload.single('audio'), (req, res) => {
     })
 });
 
-app.use(express.static('../build'));
+app.use(express.static('./public'));
 
 app.listen(3000);
